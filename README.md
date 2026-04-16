@@ -27,4 +27,4 @@ You do not need to follow the same folder organisation, but the output `POS.mat`
 
 However, it is ***essential*** that your `.csv` and `channel_config.txt` files follow the same template as the example files in `/Data`. For your information, the channel config file in this example is shown below:
 
-![ChannelConfig]()
+![ChannelConfig](https://github.com/CogNIRS/Digitization/blob/main/ChannelMap.png)
